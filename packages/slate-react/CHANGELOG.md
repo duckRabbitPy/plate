@@ -1,5 +1,7 @@
 # @udecode/slate-react
 
+## 24.6.0
+
 ## 24.4.0
 
 ### Minor Changes

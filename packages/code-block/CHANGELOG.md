@@ -1,5 +1,7 @@
 # @udecode/plate-code-block
 
+## 24.6.0
+
 ## 24.5.2
 
 ## 24.4.3

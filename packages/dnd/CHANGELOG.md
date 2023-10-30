@@ -1,5 +1,7 @@
 # @udecode/plate-dnd
 
+## 24.6.0
+
 ## 24.5.2
 
 ### Patch Changes
